@@ -1,3 +1,3 @@
 # hacks.mbhs.edu
 
-##The website for Blair's premiere hackathon!
+## The website for Blair's premiere hackathon!
